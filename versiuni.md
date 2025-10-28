@@ -1,3 +1,9 @@
+ver 1.3.1
+- adaugare animatie js pentru meniul principal
+
+ver 1.3.0
+- am adaugat pagina de contact
+
 ver 1.2.2
 -am adaugat informatii noi in "test persoanlitate"
 
